@@ -1,0 +1,23 @@
+h4{
+    font-size: 28px;
+    font-weight: bolder;
+    /* color: rgb(50, 109, 165); */
+    color: rgb(241, 78, 78);
+    /* color: rgb(71, 167, 211); */
+    margin-bottom: 20px;
+    margin-top: 5px;
+    background-color: rgb(210, 230, 233);
+    padding: 7px;
+    /* border-radius: 15px; */
+}
+
+/* 
+*{
+    background-color: black;
+} */
+
+.t{
+    color: rgb(71, 167, 211);
+    font-weight: bold;
+    font-size: 20px;
+}

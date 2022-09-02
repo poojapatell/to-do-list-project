@@ -1,0 +1,44 @@
+*{
+    font-family: cursive;
+}
+h1{
+    font-weight: bolder;
+    /* color: rgb(80, 196, 231); */
+    color: rgb(226, 108, 108);
+    background-color: rgb(210, 230, 233);
+    
+    /* background:rgb(245, 219, 219); */
+}
+.container{
+    margin-top: 37px;
+    background-color: rgb(255, 255, 255);
+    
+    /* color: rgb(226, 108, 108); */
+    /* background-image: linear-gradient(rgb(255, 255, 255),rgb(255, 255, 255),url("bees.jpg")); */
+    padding: 30px;
+    /* box-shadow: 2px 2px 2px 2px rgb(54, 133, 155); */
+    border: 3px rgb(70, 133, 185) solid;
+    border-radius: 22px;
+
+}
+.h{
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(71, 167, 211);
+    
+}
+.p{
+    color: rgb(241, 78, 78);
+    /* background:rgb(255, 255, 255); */
+}
+.full{
+    background-image: url("fl3.gif");
+    padding: 10px;
+    background-size: cover;
+    
+}
+.full{
+    min-height: 100vh;
+    width: 100%;
+    /* color: brown; */
+}
